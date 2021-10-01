@@ -9,7 +9,6 @@ body {
 }
 
 /* Changed element tag to header */
-
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,20 +17,17 @@ header {
 }
 
 /* Changed element tag to header */
-
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /* Changed element tag to header */
-
 header h1 .seo {
     color: #d9dcd6;
 }
 
 /* Changed to nav */
-
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,7 +37,6 @@ nav {
 }
 
 /* Removed header element tag */
-
 ul {
     list-style-type: none;
 }
